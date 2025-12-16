@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi, I'm Lyrica! 👋
 
-<!--
-**Lyrica27/Lyrica27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Information Technology Student  
+💻 Beginner Programmer  
 
-Here are some ideas to get you started:
+- 🧠  I enjoy building simple projects and learning step by step
+- 🔭 Working on simple projects
+  
+📌 Skills:
+- Basic HTML & CSS
+  
+📫 Contact:
+- GitHub: @Lyrica27
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+✨ Always learning, always improving.
 -->
