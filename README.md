@@ -1,5 +1,6 @@
 ## Hi, I'm Lyrica! 👋
-![pic1](https://github.com/user-attachments/assets/29c7ad6a-9991-4544-9698-fe3de9578842)
+![pic1](https://github.com/user-attachments/assets/f00fb581-c7a6-4eed-97d8-5c6bfdf324c7)
+
 
 
 🎓 Information Technology Student  
