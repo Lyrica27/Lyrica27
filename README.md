@@ -1,5 +1,6 @@
 ## Hi, I'm Lyrica! 👋
-![pic1](https://github.com/user-attachments/assets/f00fb581-c7a6-4eed-97d8-5c6bfdf324c7)
+<img src="![pic1](https://github.com/user-attachments/assets/870da07a-130e-425a-9253-8600b41b39ce)
+" width="300" height="300">
 
 
 
