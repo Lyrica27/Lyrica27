@@ -1,4 +1,6 @@
 ## Hi, I'm Lyrica! 👋
+![Uploading pic1.jpg…]()
+
 
 🎓 Information Technology Student  
 💻 Beginner Programmer  
