@@ -1,5 +1,5 @@
 ## Hi, I'm Lyrica! 👋
-<img src="C:\Users\Jonnalhyn\Documents\lj photos\pic1.jpg" width="300">
+![lyrica](https://github.com/user-attachments/assets/f811610a-1bf4-415f-b67d-9f01f410fa48)
 
 
 🎓 Information Technology Student  
