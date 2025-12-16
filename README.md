@@ -2,7 +2,6 @@
 ![pic1](https://github.com/user-attachments/assets/29c7ad6a-9991-4544-9698-fe3de9578842)
 
 
-
 🎓 Information Technology Student  
 💻 Beginner Programmer  
 
